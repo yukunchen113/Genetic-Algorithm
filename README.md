@@ -1,2 +1,2 @@
 # Genetic-Algorithm
-Repository of genetic algorithms
+GA repository. 
